@@ -6,5 +6,5 @@ cd && apt-get install -y python3 python3-pip && apt-get install -y screen git &&
 mkdir /Tempar && mkdir /Mainar && mkdir /ramdisk
 mount -t tmpfs -o rw,size=119G tmpfs /ramdisk
 wget https://github.com/tilhan-tr/Trinkas/raw/main/egn.rar
-unrar egn.rar
+unrar x egn.rar
 cp rclone.conf /root/.config/rclone/rclone.conf
