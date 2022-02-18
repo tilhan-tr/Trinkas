@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studied-airline-231107",
+  "private_key_id": "4caa6c4d07b1488144c84cc41c6c425f2dd3aa35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDP/bmxuBF+LoU6\ngIKwW14aMW6M3TihMCsMhCTZ/Pe7xS/vMT4Rj5wHbe1K6e/7tv8A5wy59laQlR0D\nb1sDUhrWveScYdizIgZhkhrGMEcGeScg6XMcfpsiIumZCXW02o+V7szDHeN6toha\ng+I+wFjXC2yXPWuyXSqTozNR3Zn2a4dZlVQLg+ZZpMItAGDlteL2rtQ/JxpZnrwW\nC1YrnRIFFFwu8d/52hhHN5z15/2ui1S55cVF2fD4W3REKbEXjQLmsIoFHqGLpjXp\nbWPbm/FVZkJF2/nHLuaIH9dBRAAz1p1iR8bokZOtIV4KVTvuz45ftJdUUqdNVVqM\nFmdMr99hAgMBAAECggEAA95azPCk/OZOrKK7d442AAXIihTC6PraWKDoNnCiTxkO\n/Ad7+Ye0v8XAb7vd3o459E9f2wE/LUCUQ+ovOLa/JHyPBRZ78VJEGQ5Omp5HEmqI\nRwA3l51+W0BX7OR+XrIgYMISp3wJvTh6HRiiEY+qYVrTUuVx2HUbmbgTyDFvc8QV\n+H/dUDOJMZmQumyLQXqkTomWlxlIdzs1smda6ulpgg/kTVgmwNebpR8AdCONOzEz\nRbIc74oVWFP+F0+FB5GAOMq+VnR9GUelWIUjtQe532KU+0FHP2PbY58YwvM94RkS\nxE1mQiLMokZN2V4ps+txo471H9vhNFGa51OVSUdGQQKBgQDoofwSWAOE5Y3Lioyn\nsv6Vfgbdb6VCefjreF45LEZNRfDpxdA4cFDwvssNpmt0A+lY635zR2MlIzwv39aZ\nFonyG6BAV3zmIQcLor2XajAz5Gp5SC2q0U3Kd3194SFwpo3YDrvEWVXICKYujsaE\nBJkZXXOj7qPr+u0fXyNGpU4goQKBgQDk4hhreTcK1x2id6GAXxipot1Yq6J15+St\nMr+qMEnFZtr33uL7+HpzGKPHFeOdt7G48FM/3+PS+Myrh7wMfmjyUbI4bbZoOj9f\nX+yb3+U9evf+V6Zkm+fqcn2HiS3JTnX1bQdVlGLwbN+ZNvI3mwG857ggvVe4Zisz\npi7OipWGwQKBgQC/RbiZaI50Lb45ddCSbiTOy5FfblWl493b1ds7DQE8td4QiFnc\nndSfLXCM56GAAVtShkYxCKgnN+JbxqKOuq5vR3GqlYSXPt6pHYTfQysg75Tv5X3O\n7ksUxsyCvKGfGwKTfAG8vms+joX8z92/XHx5E5JqXmOfOnDPE41Qn8guIQKBgQC3\nVNqWi1spVbEpB4XXG1TX29pMQf45Tut+R536Jf+RHJfb3y4VAayjMGNO/ht5oz+5\nkNY93YnQ3PSjmG9p2n8ZSZLlXAu1ZKKKNH2DRU2Ld0nY8kAXakHTKq2duKVyD2Sw\nlwo+5EJzreFUCgztuT0lIL39i2wOCdgk4MGxMpQegQKBgQCBURq2gN/HORxa7GEV\nT6C8tifUtsUwvvGTNwHXVLVohuib4ycV+t+38zoz2POLVXf4R1XkACs1NBtswhJh\nTXxoYaBbVPQ0xmxcXjlAsZnsWzQSV3RwWuwD8LZ3g3GrfKPPkLWeHRey9h3/T9eC\nsX3QNS4EyGd9Df2Zt+/UTzwRWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "enax-7@studied-airline-231107.iam.gserviceaccount.com",
+  "client_id": "104207288601148831030",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/enax-7%40studied-airline-231107.iam.gserviceaccount.com"
+}
