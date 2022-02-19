@@ -7,4 +7,6 @@ mkdir /Tempar && mkdir /Mainar && mkdir /ramdisk
 mount -t tmpfs -o rw,size=119G tmpfs /ramdisk
 wget https://github.com/tilhan-tr/Trinkas/raw/main/egn.rar
 unrar x egn.rar
+rclone config file
 cp rclone.conf /root/.config/rclone/rclone.conf
+
